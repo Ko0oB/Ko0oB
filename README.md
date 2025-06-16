@@ -14,7 +14,7 @@
 ---
 ### About Me:
 - 🏦 I'm a Mechatronic Engineer
-- 🧠 I treat programming as a hobby and a way to stay curious
+- 🧠 I treat programming as a hobby (so far) and a way to stay curious
 - 📱 I build small apps for fun, just to try out new tech and ideas
 - 📸 I'm into photography and video
 - 🚁 I enjoy flying drones and experimenting with aerial shots
