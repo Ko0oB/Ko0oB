@@ -40,8 +40,8 @@
 
 
 Update: 2025-06-16
-<!--
+<!-- VISITORS -->
 ---
 ### 👱 Visitors count
-<img src="https://profile-counter.glitch.me/Ridwanullahi-code/count.svg" />
--->
+<img src="https://profile-counter.glitch.me/Ko0oB/count.svg" />
+
